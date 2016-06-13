@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <ImageView fitHeight="400.0" fitWidth="400.0" pickOnBounds="true">
+         <image>
+            <Image url="@images/background.jpg" />
+         </image></ImageView>
+      <AnchorPane layoutX="81.0" layoutY="69.0" prefHeight="239.0" prefWidth="239.0" AnchorPane.bottomAnchor="92.0" AnchorPane.leftAnchor="81.0" AnchorPane.rightAnchor="80.0" AnchorPane.topAnchor="69.0">
+         <children>
+            <Rectangle fx:id="pl1_40" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutY="160.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_30" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutY="120.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_20" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutY="80.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_05" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="200.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_50" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutY="200.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_01" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="40.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_04" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="160.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_03" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="120.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_10" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutY="40.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_02" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="80.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_45" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="200.0" layoutY="160.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_35" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="200.0" layoutY="120.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_25" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="200.0" layoutY="80.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_15" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="200.0" layoutY="40.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_54" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="160.0" layoutY="200.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_34" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="160.0" layoutY="120.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_24" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="160.0" layoutY="80.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_14" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="160.0" layoutY="40.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_53" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="120.0" layoutY="200.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_43" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="120.0" layoutY="160.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_23" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="120.0" layoutY="80.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_13" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="120.0" layoutY="40.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_52" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="80.0" layoutY="200.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_32" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="80.0" layoutY="120.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_42" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="80.0" layoutY="160.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_55" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="200.0" layoutY="200.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_44" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="160.0" layoutY="160.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_33" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="120.0" layoutY="120.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_22" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="80.0" layoutY="80.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_12" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="80.0" layoutY="40.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_51" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="40.0" layoutY="200.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_41" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="40.0" layoutY="160.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_31" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="40.0" layoutY="120.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_21" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="40.0" layoutY="80.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_11" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="40.0" layoutY="40.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+            <Rectangle fx:id="pl1_00" accessibleText="?" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" onMouseClicked="#rectangleClicked" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="35.0">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+         </children>
+      </AnchorPane>
+      <Label layoutX="20.0" layoutY="14.0" text="Rectangles Left:">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label fx:id="rectanglesLeftLabel" layoutX="164.0" layoutY="14.0" text="36">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="20.0" layoutY="331.0" text="Items remaining:">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label fx:id="pl1_itemsRemLabel" layoutX="169.0" layoutY="331.0" text="3">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
